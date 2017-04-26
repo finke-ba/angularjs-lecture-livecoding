@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Dell Streak 7",
+    "description": "Introducing Dell\u2122 Streak 7. Share photos, videos and movies together. It\u2019s small enough to carry around, big enough to gather around",
+    "price": "66.6",
+    "android": "2.2",
+    "ram": "16000MB",
+    "standbyTime": "400 hours",
+    "screenSize": "7.0 inches",
+    "images": [
+      "img/dell-streak-7.0.jpg",
+      "img/dell-streak-7.1.jpg",
+      "img/dell-streak-7.2.jpg"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "Dell Venue",
+    "description": "The Venue is the perfect one-touch, Smart Phone providing instant access to everything you love.",
+    "price": "60",
+    "android": "2.2",
+    "ram": "512MB",
+    "standbyTime": "400 hours",
+    "screenSize": "4.1 inches",
+    "images": [
+      "img/dell-venue.0.jpg",
+      "img/dell-venue.1.jpg",
+      "img/dell-venue.2.jpg"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "Motorola XOOM\u2122 with Wi-Fi",
+    "description": "Motorola XOOM with Wi-Fi has a super-powerful dual-core processor and Android\u2122 3.0 (Honeycomb) \u2014 the Android platform designed specifically for tablets.",
+    "price": "50.6",
+    "android": "3.0",
+    "ram": "1000MB",
+    "standbyTime": "336 hours",
+    "screenSize": "10.1 inches",
+    "images": [
+      "img/motorola-xoom-with-wi-fi.0.jpg",
+      "img/motorola-xoom-with-wi-fi.1.jpg",
+      "img/motorola-xoom-with-wi-fi.2.jpg"
+    ],
+    "reviews": []
+  }
+]
